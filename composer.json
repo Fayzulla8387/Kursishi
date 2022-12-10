@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/html-code-for-scientific-calculator",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "нр",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
