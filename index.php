@@ -24,8 +24,8 @@
         <input type="text" id="screen" maxlength="20">
         <div class="calc-buttons" class="container">
 
-<button class="btn btn-success"></button>
-            <div class="functions-one">
+
+            <div class="functions-one" class="container">
                 <button class="button triggers">C</button>
                 <button class="button basic-stuff">(</button>
                 <button class="button basic-stuff">)</button>
